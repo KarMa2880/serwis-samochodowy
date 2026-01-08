@@ -1,5 +1,5 @@
 
-INSERT INTO Usługi (nazwa, cena)
+INSERT INTO Uslugi (nazwa, cena)
 VALUES
     ('Wymiana oleju', 150.00),
     ('Wymiana klocków hamulcowych', 300.00),
